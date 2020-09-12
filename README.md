@@ -3,6 +3,9 @@
 
 Stock market analysis
 
+
+ ![stockmarket.jpg](stockmarket.jpg)
+
 Created a script that loops through all the stocks for one year and output the following information:
 
 
@@ -25,5 +28,5 @@ Applied conditional formatting that will highlight positive change in green and 
 The script returns the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
 
 
- ![stockmarket.jpg](stockmarket.jpg)
+ ![hard_solution_vba.png](hard_solution_vba.png)
 
