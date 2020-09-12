@@ -24,6 +24,6 @@ Applied conditional formatting that will highlight positive change in green and 
 
 The script returns the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
 
-<details>
-  ![stockmarket.jpg](stockmarket.jpg)
-</details>
+
+ ![stockmarket.jpg](stockmarket.jpg)
+
